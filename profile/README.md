@@ -17,10 +17,6 @@ At ESTETIKA, our purpose is to ignite curiosity and encourage the exploration of
 - **Dynamic Community Hub:** Become part of our dynamic community hub, a space where you can exchange insights, make discoveries, and share stories about Indonesian batik. Connect with like-minded individuals and contribute to a global cultural exchange.
 - **Digital Marketplace:** Explore our e-commerce platform connecting batik enthusiasts with authentic pieces, empowering local artisans, and championing sustainable practices in the batik industry.
 
-## Join Us
-
-If you are passionate about cultural exploration, technology, and contributing to the growth of sustainable tourism, we invite you to join our team at ESTETIKA. Together, let's explore, appreciate, and elevate the rich tapestry of Indonesian batik. For more information, please visit our [website](https://estetika.id) or contact us at [estetikateam2023@gmail.com](mailto:estetikateam2023@gmail.com). We look forward to connecting with you.
-
 ## Join Our Journey
 
 If you have a passion for cultural exploration, technology, and a commitment to fostering sustainable tourism, we extend an invitation to join the ESTETIKA team. Let's embark on a collective journey to explore, appreciate, and elevate the intricate world of Indonesian batik. For additional details, please visit our [website](https://estetika.id) or reach out to us at [estetikateam2023@gmail.com](mailto:estetikateam2023@gmail.com). We eagerly anticipate connecting with you.
