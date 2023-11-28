@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../profile/src/estetika-header-image.png" width="100%" height="100%" alt="ESTETIKA Header">
+  <img src="./src/estetika-header-image.png" width="100%" height="100%" alt="ESTETIKA Header">
 </p>
 
 ## ESTETIKA
