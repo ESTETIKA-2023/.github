@@ -24,6 +24,6 @@ If you have a passion for cultural exploration, technology, and a commitment to 
 ## Stay Connected with us on social media
 
 <a target="_blank" href="https://www.linkedin.com/in/estetika/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://instagram.com/estetika"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://instagram.com/estetikateam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 
 
