@@ -30,7 +30,7 @@ At ESTETIKA, our purpose is to ignite curiosity and encourage the exploration of
 
 ## Join Our Journey
 
-If you have a passion for cultural exploration, technology, and a commitment to fostering sustainable tourism, we extend an invitation to join the ESTETIKA team. Let's embark on a collective journey to explore, appreciate, and elevate the intricate world of Indonesian batik. For additional details, please visit our [website](https://estetika.id) or reach out to us at [estetikateam2023@gmail.com](mailto:estetikateam2023@gmail.com). We eagerly anticipate connecting with you.
+If you have a passion for cultural exploration, technology, and a commitment to fostering sustainable tourism, we extend an invitation to join the ESTETIKA team. Let's embark on a collective journey to explore, appreciate, and elevate the intricate world of Indonesian batik. For additional details, please visit our [website](https://estetika.website) or reach out to us at [estetikateam2023@gmail.com](mailto:estetikateam2023@gmail.com). We eagerly anticipate connecting with you.
 
 ## Stay Connected with us on social media
 
