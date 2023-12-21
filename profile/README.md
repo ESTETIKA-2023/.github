@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ESTETIKA-2023/.github/main/profile/src/estetika-header-image.png" width="100%" height="auto" alt="ESTETIKA Header">
 </p>
 
-## ESTETIKA
+# ESTETIKA
 
 ESTETIKA is a cultural exploration platform on a mission to unravel the enchanting world of Indonesian batik. Our vision is to not only promote the beauty of batik but also to contribute to the growth of tourism in regions celebrated for their unique batik heritage. By harnessing cutting-edge technologies, such as AI, our goal is to revolutionize the way we appreciate and engage with this traditional art form.
 
