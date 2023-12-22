@@ -4,7 +4,7 @@
 
 # ESTETIKA
 
-ESTETIKA is a cultural exploration platform on a mission to unravel the enchanting world of Indonesian batik. Our vision is to not only promote the beauty of batik but also to contribute to the growth of tourism in regions celebrated for their unique batik heritage. By harnessing cutting-edge technologies, such as AI, our goal is to revolutionize the way we appreciate and engage with this traditional art form.
+ESTETIKA “Eksplorasi Tentang Batik Indonesia” present as an application incorporates machine learning for Batik recognition and offers features to enhance public awareness, support local artisans, and boost the tourism industry. 
 
 ## Our Purpose
 
