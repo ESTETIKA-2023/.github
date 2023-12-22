@@ -8,14 +8,18 @@ ESTETIKA “Eksplorasi Tentang Batik Indonesia” present as an application inco
 
 ## Our Purpose
 
-At ESTETIKA, our purpose is to ignite curiosity and encourage the exploration of Indonesian batik. We are dedicated to creating a digital realm where both enthusiasts and inquisitive minds can immerse themselves in the details of this timeless craft. Through the integration of groundbreaking technologies, our goal is to elevate cultural awareness, promote sustainable tourism, and safeguard the profound legacy interwoven into each batik masterpiece.
+The ESTETIKA project aims to address several challenges related to the preservation and promotion of Indonesia's Batik cultural heritage. These challenges include the low interest of the younger generation in Batik, slow industry development due to capital and marketing issues, lack of consumer knowledge about various Batik types, and counterfeiting damaging the image of authentic Batik. The project seeks to create a solution that enhances awareness, educates users, promotes Batik tourism, and supports Batik MSMEs through a comprehensive mobile application.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ESTETIKA-2023/.github/main/profile/src/our_app.jpg" width="100%" height="auto" alt="ESTETIKA Header">
+</p>
 
 ## Our Offerings
 
-- **Immersive Digital Hub:** Immerse yourself in the enchanting realm of Indonesian batik through our innovative digital hub, where state-of-the-art technologies breathe life into this artistic expression.
-- **Engaging Workshops:** Participate in interactive digital workshops that unveil the traditional techniques behind the art of batik, bridging the gap between art enthusiasts and skilled artisans.
-- **Dynamic Community Hub:** Become part of our dynamic community hub, a space where you can exchange insights, make discoveries, and share stories about Indonesian batik. Connect with like-minded individuals and contribute to a global cultural exchange.
-- **Digital Marketplace:** Explore our e-commerce platform connecting batik enthusiasts with authentic pieces, empowering local artisans, and championing sustainable practices in the batik industry.
+- **Batik Detection:** Introduce the Indonesian Batik types 
+- **Batik Tourist Experience:** Promote batik tourist experience and batik tourist villages to provide authentic experiences to users.
+- **Batik Articles:** Introduce Indonesian Batiks starting from the history, philosophy and place of origin of Batik.
+- **Batik E-commerce:** Promote the Batik products of batik SMEs
 
 ## Our Teams
 | Bangkit ID | Name | University | Division | Profile |
